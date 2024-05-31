@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myapp2</string>
+    <string name="delete">Usuń</string>
+    <string-array name="priority_levels">
+    <item>Normal</item>
+    <item>Ważne</item>
+    <item>Bardzo ważne</item>
+    </string-array>
+</resources>
